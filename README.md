@@ -46,5 +46,5 @@ credit customers experiencing default based on their historical transactions.
 
 # Contact
 If you liked it and want to have a chat with me about the portfolio, work opportunities, or collaboration feel free to reach out to me via email at ananditaprameswari23@gmail.com
-You can find me on [Linkelnd](https://www.linkedin.com/in/masayuanandita-/) too.
+You can find me on [Linkedln](https://www.linkedin.com/in/masayuanandita-/) too.
 
