@@ -3,13 +3,14 @@ Welcome to my Data Science Projects Repository! This repository contains a colle
 
 # Instructions for Running Python Notebooks Locally
 1. Install dependencies using requirements.txt.
-2. Run notebooks as usual by using a jupyter notebook server, Vscode etc.
+2. Run notebooks as usual by using a jupyter notebook server, vscode, etc.
 
 # Projects
 1. [IKN PROPERTY](https://github.com/FTDS-assignment-bay/p2-final-project-ftds-026-rmt-group-001/tree/main)
     - **Description:** The goal of this project is to make a prediction model that will tell users the prices of their house if the user were to sell their house or property in Ibukota Nusantara (IKN).
     - **Technologies Used:** The notebooks use Random Forest, Light GBM, XGBoost, Decision Tree, Lasso Regression, Gradient Boosting Regression.
     - **Results:** A regression model that can predict the house prices of IKN and its surrounding area. The model chosen was XGBoost with the final result of 83% R2 accuracy–with the lowest error margin of about 5%.
+    - **Deployment:** Check huggingface page to real experience [here](https://huggingface.co/spaces/xyncz/IKN-Price-Prediction)
 
 2. [Hotel Reservation Cancellation Prediction](https://github.com/masayuanandita/portofolio_DS/tree/main/Hotel%20Reservation%20Cancellation%20Prediction)
     - **Description:** Develop a supervised machine learning model using the Random Forest algorithm to predict whether
@@ -32,7 +33,7 @@ credit customers experiencing default based on their historical transactions.
 
 5. [Restaurant Review Sentiment Analysis](https://github.com/masayuanandita/portofolio_DS/tree/main/Restaurant%20Review%20Sentiment%20Analysis)
     - **Description:** This project aims to create a sentiment analysis model for restaurant reviews.
-    - **Technologies Used:** The notebooks uses Python, Pandas, NLTK, Wordcloud, Tensorflow, Scikitlearn, Artificiall Neaural Network, Bidirectional GRU, LSTM, Transfer Learning.
+    - **Technologies Used:** The notebooks use Python, Pandas, NLTK, Wordcloud, Tensorflow, Scikitlearn, Artificial Neural Network, Bidirectional GRU, LSTM, and Transfer Learning.
     - **Results:** For the model using ANN base, Bidirectional GRU, and Bidirection LSTM we got a great accuracy of 99% for training data.
     - **Deployment:** Check huggingface page to real experience [here](https://huggingface.co/spaces/ananditapram23/sentiment_review)
 
